@@ -1,0 +1,2947 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-09-12T16:06:44.556-04:00
+  initializedAtString: 2019-09-12T16:06:44.556-04:00
+  log:
+  - commitID: f08fab1a8efe78b114fe160c7ad294c4c25e7897
+    mergeA: 
+    mergeB: 
+    authorName: Adnan Rashied
+    authorEmail: adnan.rashied@gmail.com
+    commitEmail: adnan.rashied@gmail.com
+    commitName: Adnan Rashied
+    summary: Re-Stablized
+    description: 
+    timeString: 2019-04-22T19:43:37.000-04:00
+    commitTimeString: 2019-04-22T19:43:37.000-04:00
+    changes:
+    - path: app\src\main\java\com\example\skate_project\MainActivity.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\MainActivity.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\MainActivity.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 5d65e932383c941e835e0a630a98e4fa6f539f4d
+    mergeA: 
+    mergeB: 
+    authorName: Adnan Rashied
+    authorEmail: adnan.rashied@gmail.com
+    commitEmail: adnan.rashied@gmail.com
+    commitName: Adnan Rashied
+    summary: god fucken damn it
+    description: 
+    timeString: 2019-04-22T19:39:29.000-04:00
+    commitTimeString: 2019-04-22T19:39:29.000-04:00
+    changes:
+    - path: .gradle\4.10.1\fileHashes\fileHashes.bin
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.bin
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.bin
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .gradle\4.10.1\fileHashes\fileHashes.lock
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.lock
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\caches\gradle_models.ser
+      fullPath: C:\Users\codyh\.idea\caches\gradle_models.ser
+      projectPath: ..\..\..\..\..\..\.idea\caches\gradle_models.ser
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\MainActivity.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\MainActivity.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\MainActivity.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: local.properties
+      fullPath: C:\Users\codyh\local.properties
+      projectPath: ..\..\..\..\..\..\local.properties
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 067663ca2a59f78ca1010981f30599da7fd40f04
+    mergeA: 
+    mergeB: 
+    authorName: SeunghyeonS
+    authorEmail: seacloud2751@gmail.com
+    commitEmail: seacloud2751@gmail.com
+    commitName: SeunghyeonS
+    summary: i fucked up
+    description: 
+    timeString: 2019-04-22T19:31:37.000-04:00
+    commitTimeString: 2019-04-22T19:31:37.000-04:00
+    changes:
+    - path: .gradle\4.10.1\fileHashes\fileHashes.bin
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.bin
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.bin
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .gradle\4.10.1\fileHashes\fileHashes.lock
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.lock
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\caches\build_file_checksums.ser
+      fullPath: C:\Users\codyh\.idea\caches\build_file_checksums.ser
+      projectPath: ..\..\..\..\..\..\.idea\caches\build_file_checksums.ser
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\caches\gradle_models.ser
+      fullPath: C:\Users\codyh\.idea\caches\gradle_models.ser
+      projectPath: ..\..\..\..\..\..\.idea\caches\gradle_models.ser
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\JsonParser.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\JsonParser.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\JsonParser.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\MainActivity.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\MainActivity.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\MainActivity.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\Tab1Fragment.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\Tab1Fragment.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\Tab1Fragment.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\Tab2Fragment.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\Tab2Fragment.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\Tab2Fragment.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\Tab3Fragment.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\Tab3Fragment.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\Tab3Fragment.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\arrow.png
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\arrow.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\arrow.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\fragment_three.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\fragment_three.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\fragment_three.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\fragment_two.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\fragment_two.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\fragment_two.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: local.properties
+      fullPath: C:\Users\codyh\local.properties
+      projectPath: ..\..\..\..\..\..\local.properties
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 3c859edaa4d71a78d0068e9f05b8ecd53ade379e
+    mergeA: 
+    mergeB: 
+    authorName: SeunghyeonS
+    authorEmail: seacloud2751@gmail.com
+    commitEmail: seacloud2751@gmail.com
+    commitName: SeunghyeonS
+    summary: added color below lingraph and made rotation graph(not working)
+    description: 
+    timeString: 2019-04-22T19:08:15.000-04:00
+    commitTimeString: 2019-04-22T19:08:15.000-04:00
+    changes:
+    - path: app\src\main\java\com\example\skate_project\Tab1Fragment.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\Tab1Fragment.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\Tab1Fragment.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\Tab2Fragment.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\Tab2Fragment.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\Tab2Fragment.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\fragment_one.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\fragment_one.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\fragment_one.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\fragment_two.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\fragment_two.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\fragment_two.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: efb89682639bda1ee8d37ce89615f4ddc2e0c2d2
+    mergeA: 
+    mergeB: 
+    authorName: Adnan Rashied
+    authorEmail: adnan.rashied@gmail.com
+    commitEmail: adnan.rashied@gmail.com
+    commitName: Adnan Rashied
+    summary: Damn it cody
+    description: 
+    timeString: 2019-04-18T17:42:54.000-04:00
+    commitTimeString: 2019-04-18T17:42:54.000-04:00
+    changes:
+    - path: .gradle\4.10.1\fileHashes\fileHashes.bin
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.bin
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.bin
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .gradle\4.10.1\fileHashes\fileHashes.lock
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.lock
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\caches\gradle_models.ser
+      fullPath: C:\Users\codyh\.idea\caches\gradle_models.ser
+      projectPath: ..\..\..\..\..\..\.idea\caches\gradle_models.ser
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\modules.xml
+      fullPath: C:\Users\codyh\.idea\modules.xml
+      projectPath: ..\..\..\..\..\..\.idea\modules.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\JsonParser.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\JsonParser.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\JsonParser.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\MainActivity.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\MainActivity.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\MainActivity.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\Tab1Fragment.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\Tab1Fragment.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\Tab1Fragment.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: local.properties
+      fullPath: C:\Users\codyh\local.properties
+      projectPath: ..\..\..\..\..\..\local.properties
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: c1f72e2567d895499e5ff4ca92661f365a4d2f63
+    mergeA: 
+    mergeB: 
+    authorName: Adnan Rashied
+    authorEmail: adnan.rashied@gmail.com
+    commitEmail: adnan.rashied@gmail.com
+    commitName: Adnan Rashied
+    summary: damn it cody
+    description: 
+    timeString: 2019-04-17T19:38:53.000-04:00
+    commitTimeString: 2019-04-17T19:38:53.000-04:00
+    changes:
+    - path: app\src\main\AndroidManifest.xml
+      fullPath: C:\Users\codyh\app\src\main\AndroidManifest.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\AndroidManifest.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\MainActivity.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\MainActivity.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\MainActivity.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: cea9b68cf93b99303a5b91c9d82d0cd835d33994
+    mergeA: 73308ecfa8d8c5b8ec80b52465ce50b86d1363be
+    mergeB: 736a69be1ee200f0a2569f7bb1e53fc2fac80948
+    authorName: Adnan Rashied
+    authorEmail: adnan.rashied@gmail.com
+    commitEmail: adnan.rashied@gmail.com
+    commitName: Adnan Rashied
+    summary: Test
+    description: 
+    timeString: 2019-04-17T19:36:27.000-04:00
+    commitTimeString: 2019-04-17T19:36:27.000-04:00
+    changes: []
+  - commitID: 73308ecfa8d8c5b8ec80b52465ce50b86d1363be
+    mergeA: 
+    mergeB: 
+    authorName: Adnan Rashied
+    authorEmail: adnan.rashied@gmail.com
+    commitEmail: adnan.rashied@gmail.com
+    commitName: Adnan Rashied
+    summary: Re-Stable Cody's shit
+    description: 
+    timeString: 2019-04-17T19:20:23.000-04:00
+    commitTimeString: 2019-04-17T19:20:23.000-04:00
+    changes:
+    - path: .gradle\4.10.1\fileHashes\fileHashes.bin
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.bin
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.bin
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .gradle\4.10.1\fileHashes\fileHashes.lock
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.lock
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\caches\gradle_models.ser
+      fullPath: C:\Users\codyh\.idea\caches\gradle_models.ser
+      projectPath: ..\..\..\..\..\..\.idea\caches\gradle_models.ser
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\misc.xml
+      fullPath: C:\Users\codyh\.idea\misc.xml
+      projectPath: ..\..\..\..\..\..\.idea\misc.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\workspace.xml
+      fullPath: C:\Users\codyh\.idea\workspace.xml
+      projectPath: ..\..\..\..\..\..\.idea\workspace.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\AndroidManifest.xml
+      fullPath: C:\Users\codyh\app\src\main\AndroidManifest.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\AndroidManifest.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\MainActivity.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\MainActivity.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\MainActivity.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\Tab1Fragment.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\Tab1Fragment.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\Tab1Fragment.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\activity_main.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\activity_main.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\activity_main.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: local.properties
+      fullPath: C:\Users\codyh\local.properties
+      projectPath: ..\..\..\..\..\..\local.properties
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 736a69be1ee200f0a2569f7bb1e53fc2fac80948
+    mergeA: 
+    mergeB: 
+    authorName: tinyturtlestudio
+    authorEmail: codyharrison@comcast.net
+    commitEmail: codyharrison@comcast.net
+    commitName: tinyturtlestudio
+    summary: Cody tried
+    description: 
+    timeString: 2019-04-17T19:18:23.000-04:00
+    commitTimeString: 2019-04-17T19:18:23.000-04:00
+    changes:
+    - path: .gradle\4.10.1\fileHashes\fileHashes.bin
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.bin
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.bin
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .gradle\4.10.1\fileHashes\fileHashes.lock
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.lock
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\caches\build_file_checksums.ser
+      fullPath: C:\Users\codyh\.idea\caches\build_file_checksums.ser
+      projectPath: ..\..\..\..\..\..\.idea\caches\build_file_checksums.ser
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\caches\gradle_models.ser
+      fullPath: C:\Users\codyh\.idea\caches\gradle_models.ser
+      projectPath: ..\..\..\..\..\..\.idea\caches\gradle_models.ser
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\misc.xml
+      fullPath: C:\Users\codyh\.idea\misc.xml
+      projectPath: ..\..\..\..\..\..\.idea\misc.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\modules.xml
+      fullPath: C:\Users\codyh\.idea\modules.xml
+      projectPath: ..\..\..\..\..\..\.idea\modules.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\workspace.xml
+      fullPath: C:\Users\codyh\.idea\workspace.xml
+      projectPath: ..\..\..\..\..\..\.idea\workspace.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\AndroidManifest.xml
+      fullPath: C:\Users\codyh\app\src\main\AndroidManifest.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\AndroidManifest.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\JsonParser.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\JsonParser.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\JsonParser.java
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\MainActivity.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\MainActivity.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\MainActivity.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\Tab1Fragment.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\Tab1Fragment.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\Tab1Fragment.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: local.properties
+      fullPath: C:\Users\codyh\local.properties
+      projectPath: ..\..\..\..\..\..\local.properties
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 26d65337f2bdab7ea7ffd99c47935fb25c02e05f
+    mergeA: 
+    mergeB: 
+    authorName: Adnan Rashied
+    authorEmail: adnan.rashied@gmail.com
+    commitEmail: adnan.rashied@gmail.com
+    commitName: Adnan Rashied
+    summary: Re-Cycled
+    description: 
+    timeString: 2019-04-17T18:43:01.000-04:00
+    commitTimeString: 2019-04-17T18:43:01.000-04:00
+    changes:
+    - path: app\src\main\res\drawable\img1_n.jpg
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\img1_n.jpg
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\img1_n.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\img2_n.jpg
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\img2_n.jpg
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\img2_n.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\img3_n.jpg
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\img3_n.jpg
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\img3_n.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\img4_n.jpg
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\img4_n.jpg
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\img4_n.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\imgcycle1.jpg
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\imgcycle1.jpg
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\imgcycle1.jpg
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\imgcycle2.jpg
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\imgcycle2.jpg
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\imgcycle2.jpg
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: 200f5d6f5d705d4c878c9b6d69d9ae08138267aa
+    mergeA: 
+    mergeB: 
+    authorName: SeunghyeonS
+    authorEmail: seacloud2751@gmail.com
+    commitEmail: seacloud2751@gmail.com
+    commitName: SeunghyeonS
+    summary: Update
+    description: 
+    timeString: 2019-04-17T17:13:20.000-04:00
+    commitTimeString: 2019-04-17T17:13:20.000-04:00
+    changes:
+    - path: .gradle\4.10.1\fileHashes\fileHashes.bin
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.bin
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.bin
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .gradle\4.10.1\fileHashes\fileHashes.lock
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.lock
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\misc.xml
+      fullPath: C:\Users\codyh\.idea\misc.xml
+      projectPath: ..\..\..\..\..\..\.idea\misc.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\workspace.xml
+      fullPath: C:\Users\codyh\.idea\workspace.xml
+      projectPath: ..\..\..\..\..\..\.idea\workspace.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\MainActivity.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\MainActivity.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\MainActivity.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\Tab1Fragment.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\Tab1Fragment.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\Tab1Fragment.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\Tab2Fragment.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\Tab2Fragment.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\Tab2Fragment.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\Tab3Fragment.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\Tab3Fragment.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\Tab3Fragment.java
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\fragment_three.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\fragment_three.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\fragment_three.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\fragment_two.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\fragment_two.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\fragment_two.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 8622f72d175893e199061dafe18bd8ef1be40108
+    mergeA: 
+    mergeB: 
+    authorName: SeunghyeonS
+    authorEmail: seacloud2751@gmail.com
+    commitEmail: seacloud2751@gmail.com
+    commitName: SeunghyeonS
+    summary: Final prototype
+    description: 
+    timeString: 2019-04-11T12:01:05.000-04:00
+    commitTimeString: 2019-04-11T12:01:05.000-04:00
+    changes:
+    - path: .gradle\4.10.1\fileHashes\fileHashes.bin
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.bin
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.bin
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .gradle\4.10.1\fileHashes\fileHashes.lock
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.lock
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\caches\build_file_checksums.ser
+      fullPath: C:\Users\codyh\.idea\caches\build_file_checksums.ser
+      projectPath: ..\..\..\..\..\..\.idea\caches\build_file_checksums.ser
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\caches\gradle_models.ser
+      fullPath: C:\Users\codyh\.idea\caches\gradle_models.ser
+      projectPath: ..\..\..\..\..\..\.idea\caches\gradle_models.ser
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\gradle.xml
+      fullPath: C:\Users\codyh\.idea\gradle.xml
+      projectPath: ..\..\..\..\..\..\.idea\gradle.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\misc.xml
+      fullPath: C:\Users\codyh\.idea\misc.xml
+      projectPath: ..\..\..\..\..\..\.idea\misc.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\workspace.xml
+      fullPath: C:\Users\codyh\.idea\workspace.xml
+      projectPath: ..\..\..\..\..\..\.idea\workspace.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\build.gradle
+      fullPath: C:\Users\codyh\app\build.gradle
+      projectPath: ..\..\..\..\..\..\app\build.gradle
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\AndroidManifest.xml
+      fullPath: C:\Users\codyh\app\src\main\AndroidManifest.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\AndroidManifest.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\AppData.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\AppData.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\AppData.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\MainActivity.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\MainActivity.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\MainActivity.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\SplashScreen.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\SplashScreen.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\SplashScreen.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\Tab1Fragment.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\Tab1Fragment.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\Tab1Fragment.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\Tab2Fragment.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\Tab2Fragment.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\Tab2Fragment.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\compass.jpg
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\compass.jpg
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\compass.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\imgcycle1.jpg
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\imgcycle1.jpg
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\imgcycle1.jpg
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\imgcycle2.jpg
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\imgcycle2.jpg
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\imgcycle2.jpg
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\splashimage3.jpg
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\splashimage3.jpg
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\splashimage3.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\white.PNG
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\white.PNG
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\white.PNG
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\font\cartoonblocks.ttf
+      fullPath: C:\Users\codyh\app\src\main\res\font\cartoonblocks.ttf
+      projectPath: ..\..\..\..\..\..\app\src\main\res\font\cartoonblocks.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\activity_main.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\activity_main.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\activity_main.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\activity_splash_screen.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\activity_splash_screen.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\activity_splash_screen.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\fragment_one.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\fragment_one.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\fragment_one.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\fragment_two.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\fragment_two.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\fragment_two.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: local.properties
+      fullPath: C:\Users\codyh\local.properties
+      projectPath: ..\..\..\..\..\..\local.properties
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 6ffcbecbcaf0a1807336a8e01598e236cbaafe46
+    mergeA: 
+    mergeB: 
+    authorName: Joshua
+    authorEmail: jbrock7work@gmail.com
+    commitEmail: jbrock7work@gmail.com
+    commitName: Joshua
+    summary: Added json data collection (check library import)
+    description: 
+    timeString: 2019-04-04T15:25:03.000-04:00
+    commitTimeString: 2019-04-04T15:25:03.000-04:00
+    changes:
+    - path: .idea\gradle.xml
+      fullPath: C:\Users\codyh\.idea\gradle.xml
+      projectPath: ..\..\..\..\..\..\.idea\gradle.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\workspace.xml
+      fullPath: C:\Users\codyh\.idea\workspace.xml
+      projectPath: ..\..\..\..\..\..\.idea\workspace.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\libs\json-simple-1.1.1.jar
+      fullPath: C:\Users\codyh\app\libs\json-simple-1.1.1.jar
+      projectPath: ..\..\..\..\..\..\app\libs\json-simple-1.1.1.jar
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\AppData.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\AppData.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\AppData.java
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 8f47ed9d38dbaec5d31abc9cf33da7294dc71723
+    mergeA: 
+    mergeB: 
+    authorName: SeunghyeonS
+    authorEmail: seacloud2751@gmail.com
+    commitEmail: seacloud2751@gmail.com
+    commitName: SeunghyeonS
+    summary: stablized v2
+    description: 
+    timeString: 2019-03-20T14:16:33.000-04:00
+    commitTimeString: 2019-03-20T14:16:33.000-04:00
+    changes:
+    - path: .idea\runConfigurations.xml
+      fullPath: C:\Users\codyh\.idea\runConfigurations.xml
+      projectPath: ..\..\..\..\..\..\.idea\runConfigurations.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: skate_project.iml
+      fullPath: C:\Users\codyh\skate_project.iml
+      projectPath: ..\..\..\..\..\..\skate_project.iml
+      originalPath: Skate_Project.iml
+      indexStatus: 6
+      workTreeStatus: 0
+  - commitID: 180d82f88d8eadc33dbf0eafb3552599e52e66f2
+    mergeA: b1cb59cea05f65d5bf5f8eabd9904610ebc9c52b
+    mergeB: ac13ee0164deadd85e103447f18c8957cfc1c3c2
+    authorName: Adnan Rashied
+    authorEmail: adnan.rashied@gmail.com
+    commitEmail: adnan.rashied@gmail.com
+    commitName: Adnan Rashied
+    summary: Merge branch 'master' of https://github.com/AdnanRashied/Skate_Project
+    description: 
+    timeString: 2019-03-20T14:05:03.000-04:00
+    commitTimeString: 2019-03-20T14:05:03.000-04:00
+    changes: []
+  - commitID: b1cb59cea05f65d5bf5f8eabd9904610ebc9c52b
+    mergeA: 
+    mergeB: 
+    authorName: Adnan Rashied
+    authorEmail: adnan.rashied@gmail.com
+    commitEmail: adnan.rashied@gmail.com
+    commitName: Adnan Rashied
+    summary: Reverting
+    description: 
+    timeString: 2019-03-20T14:01:19.000-04:00
+    commitTimeString: 2019-03-20T14:01:19.000-04:00
+    changes:
+    - path: .gitmodules
+      fullPath: C:\Users\codyh\.gitmodules
+      projectPath: ..\..\..\..\..\..\.gitmodules
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: .gradle\4.10.1\fileHashes\fileHashes.bin
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.bin
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.bin
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .gradle\4.10.1\fileHashes\fileHashes.lock
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.lock
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\caches\build_file_checksums.ser
+      fullPath: C:\Users\codyh\.idea\caches\build_file_checksums.ser
+      projectPath: ..\..\..\..\..\..\.idea\caches\build_file_checksums.ser
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\gradle.xml
+      fullPath: C:\Users\codyh\.idea\gradle.xml
+      projectPath: ..\..\..\..\..\..\.idea\gradle.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\misc.xml
+      fullPath: C:\Users\codyh\.idea\misc.xml
+      projectPath: ..\..\..\..\..\..\.idea\misc.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\workspace.xml
+      fullPath: C:\Users\codyh\.idea\workspace.xml
+      projectPath: ..\..\..\..\..\..\.idea\workspace.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\activity_main.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\activity_main.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\activity_main.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\fragment_one.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\fragment_one.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\fragment_one.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\fragment_two.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\fragment_two.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\fragment_two.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: local.properties
+      fullPath: C:\Users\codyh\local.properties
+      projectPath: ..\..\..\..\..\..\local.properties
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: nodejs-Skateboard
+      fullPath: C:\Users\codyh\nodejs-Skateboard
+      projectPath: ..\..\..\..\..\..\nodejs-Skateboard
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: smartboard_server
+      fullPath: C:\Users\codyh\smartboard_server
+      projectPath: ..\..\..\..\..\..\smartboard_server
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: a6abe42e1d1fdce5bce66010aaf231cc2543bae2
+    mergeA: 
+    mergeB: 
+    authorName: Adnan Rashied
+    authorEmail: adnan.rashied@gmail.com
+    commitEmail: adnan.rashied@gmail.com
+    commitName: Adnan Rashied
+    summary: Josh you broke the repo
+    description: 
+    timeString: 2019-03-20T13:48:58.000-04:00
+    commitTimeString: 2019-03-20T13:48:58.000-04:00
+    changes:
+    - path: .gradle\4.10.1\fileHashes\fileHashes.bin
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.bin
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.bin
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .gradle\4.10.1\fileHashes\fileHashes.lock
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.lock
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\modules.xml
+      fullPath: C:\Users\codyh\.idea\modules.xml
+      projectPath: ..\..\..\..\..\..\.idea\modules.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\workspace.xml
+      fullPath: C:\Users\codyh\.idea\workspace.xml
+      projectPath: ..\..\..\..\..\..\.idea\workspace.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: ac13ee0164deadd85e103447f18c8957cfc1c3c2
+    mergeA: 
+    mergeB: 
+    authorName: SeunghyeonS
+    authorEmail: seacloud2751@gmail.com
+    commitEmail: seacloud2751@gmail.com
+    commitName: SeunghyeonS
+    summary: Look at my files
+    description: 
+    timeString: 2019-03-20T13:33:16.000-04:00
+    commitTimeString: 2019-03-20T13:33:16.000-04:00
+    changes:
+    - path: .idea\runConfigurations.xml
+      fullPath: C:\Users\codyh\.idea\runConfigurations.xml
+      projectPath: ..\..\..\..\..\..\.idea\runConfigurations.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: 281d9ac8d94e857199a194f119b4a9ab7fb7536c
+    mergeA: 6cdafbdbbc9997e428db8c89fbbf76dafa4701f0
+    mergeB: 38e21e73542e764920716a99b7556e46adaad8e1
+    authorName: Joshua
+    authorEmail: jbrock7work@gmail.com
+    commitEmail: jbrock7work@gmail.com
+    commitName: Joshua
+    summary: Merge remote-tracking branch 'origin/master'
+    description: 
+    timeString: 2019-03-20T12:31:04.000-04:00
+    commitTimeString: 2019-03-20T12:31:04.000-04:00
+    changes: []
+  - commitID: 6cdafbdbbc9997e428db8c89fbbf76dafa4701f0
+    mergeA: 031d4e06b81b93069d83b194f1ca129550db0c0b
+    mergeB: 55527ea0698e9618a969309916832e6abc8a28c7
+    authorName: Joshua
+    authorEmail: jbrock7work@gmail.com
+    commitEmail: jbrock7work@gmail.com
+    commitName: Joshua
+    summary: Merge branch 'FragmentMod'
+    description: 
+    timeString: 2019-03-20T12:29:43.000-04:00
+    commitTimeString: 2019-03-20T12:29:43.000-04:00
+    changes: []
+  - commitID: 55527ea0698e9618a969309916832e6abc8a28c7
+    mergeA: 
+    mergeB: 
+    authorName: Joshua
+    authorEmail: jbrock7work@gmail.com
+    commitEmail: jbrock7work@gmail.com
+    commitName: Joshua
+    summary: Improved Tab
+    description: 
+    timeString: 2019-03-20T12:27:39.000-04:00
+    commitTimeString: 2019-03-20T12:27:39.000-04:00
+    changes:
+    - path: .gradle\4.10.1\fileHashes\fileHashes.bin
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.bin
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.bin
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .gradle\4.10.1\fileHashes\fileHashes.lock
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.lock
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\caches\build_file_checksums.ser
+      fullPath: C:\Users\codyh\.idea\caches\build_file_checksums.ser
+      projectPath: ..\..\..\..\..\..\.idea\caches\build_file_checksums.ser
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\workspace.xml
+      fullPath: C:\Users\codyh\.idea\workspace.xml
+      projectPath: ..\..\..\..\..\..\.idea\workspace.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\activity_main.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\activity_main.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\activity_main.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\fragment_one.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\fragment_one.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\fragment_one.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\fragment_two.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\fragment_two.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\fragment_two.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 38e21e73542e764920716a99b7556e46adaad8e1
+    mergeA: 
+    mergeB: 
+    authorName: =
+    authorEmail: =
+    commitEmail: =
+    commitName: =
+    summary: Module Merge
+    description: "Adding my existing repos:\r\nRaspberry Pi Server Code\r\nWeb Server
+      Code"
+    timeString: 2019-03-19T16:24:14.000-04:00
+    commitTimeString: 2019-03-19T16:24:14.000-04:00
+    changes:
+    - path: .gitmodules
+      fullPath: C:\Users\codyh\.gitmodules
+      projectPath: ..\..\..\..\..\..\.gitmodules
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: nodejs-Skateboard
+      fullPath: C:\Users\codyh\nodejs-Skateboard
+      projectPath: ..\..\..\..\..\..\nodejs-Skateboard
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: smartboard_server
+      fullPath: C:\Users\codyh\smartboard_server
+      projectPath: ..\..\..\..\..\..\smartboard_server
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 031d4e06b81b93069d83b194f1ca129550db0c0b
+    mergeA: 
+    mergeB: 
+    authorName: Joshua
+    authorEmail: jbrock7work@gmail.com
+    commitEmail: jbrock7work@gmail.com
+    commitName: Joshua
+    summary: Added fragment graphs per request.
+    description: 
+    timeString: 2019-03-19T01:32:31.000-04:00
+    commitTimeString: 2019-03-19T01:32:31.000-04:00
+    changes:
+    - path: .gradle\4.10.1\fileHashes\fileHashes.bin
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.bin
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.bin
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .gradle\4.10.1\fileHashes\fileHashes.lock
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.lock
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\caches\build_file_checksums.ser
+      fullPath: C:\Users\codyh\.idea\caches\build_file_checksums.ser
+      projectPath: ..\..\..\..\..\..\.idea\caches\build_file_checksums.ser
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\gradle.xml
+      fullPath: C:\Users\codyh\.idea\gradle.xml
+      projectPath: ..\..\..\..\..\..\.idea\gradle.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\misc.xml
+      fullPath: C:\Users\codyh\.idea\misc.xml
+      projectPath: ..\..\..\..\..\..\.idea\misc.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\modules.xml
+      fullPath: C:\Users\codyh\.idea\modules.xml
+      projectPath: ..\..\..\..\..\..\.idea\modules.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\workspace.xml
+      fullPath: C:\Users\codyh\.idea\workspace.xml
+      projectPath: ..\..\..\..\..\..\.idea\workspace.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\activity_main.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\activity_main.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\activity_main.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\fragment_one.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\fragment_one.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\fragment_one.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\fragment_two.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\fragment_two.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\fragment_two.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: local.properties
+      fullPath: C:\Users\codyh\local.properties
+      projectPath: ..\..\..\..\..\..\local.properties
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 268834a295a0d5d3429a515b6d2caf95ff183fce
+    mergeA: 
+    mergeB: 
+    authorName: Adnan Rashied
+    authorEmail: adnan.rashied@gmail.com
+    commitEmail: adnan.rashied@gmail.com
+    commitName: Adnan Rashied
+    summary: Added Fragments
+    description: 
+    timeString: 2019-03-18T18:16:54.000-07:00
+    commitTimeString: 2019-03-18T18:16:54.000-07:00
+    changes:
+    - path: .gradle\4.10.1\fileHashes\fileHashes.bin
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.bin
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.bin
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .gradle\4.10.1\fileHashes\fileHashes.lock
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.lock
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\caches\build_file_checksums.ser
+      fullPath: C:\Users\codyh\.idea\caches\build_file_checksums.ser
+      projectPath: ..\..\..\..\..\..\.idea\caches\build_file_checksums.ser
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\caches\gradle_models.ser
+      fullPath: C:\Users\codyh\.idea\caches\gradle_models.ser
+      projectPath: ..\..\..\..\..\..\.idea\caches\gradle_models.ser
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\modules.xml
+      fullPath: C:\Users\codyh\.idea\modules.xml
+      projectPath: ..\..\..\..\..\..\.idea\modules.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\workspace.xml
+      fullPath: C:\Users\codyh\.idea\workspace.xml
+      projectPath: ..\..\..\..\..\..\.idea\workspace.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\build.gradle
+      fullPath: C:\Users\codyh\app\build.gradle
+      projectPath: ..\..\..\..\..\..\app\build.gradle
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\AndroidManifest.xml
+      fullPath: C:\Users\codyh\app\src\main\AndroidManifest.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\AndroidManifest.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\MainActivity.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\MainActivity.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\MainActivity.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\Tab1Fragment.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\Tab1Fragment.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\Tab1Fragment.java
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\Tab2Fragment.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\Tab2Fragment.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\Tab2Fragment.java
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\TabAdapter.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\TabAdapter.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\TabAdapter.java
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\activity_main.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\activity_main.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\activity_main.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\app_bar.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\app_bar.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\app_bar.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\fragment_one.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\fragment_one.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\fragment_one.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\fragment_two.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\fragment_two.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\fragment_two.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\styles.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\styles.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\styles.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\values\styles.xml
+      fullPath: C:\Users\codyh\app\src\main\res\values\styles.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\values\styles.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: build.gradle
+      fullPath: C:\Users\codyh\build.gradle
+      projectPath: ..\..\..\..\..\..\build.gradle
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: a6f5dc4872e44df95ea0f2501f28acf556222b11
+    mergeA: 
+    mergeB: 
+    authorName: lazyshady
+    authorEmail: adnan.rashied@gmail.com
+    commitEmail: adnan.rashied@gmail.com
+    commitName: lazyshady
+    summary: Shin STOP BREAKING THE REPO
+    description: 
+    timeString: 2019-03-04T17:28:26.000-05:00
+    commitTimeString: 2019-03-04T17:28:26.000-05:00
+    changes:
+    - path: .gradle\4.10.1\fileHashes\fileHashes.bin
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.bin
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.bin
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .gradle\4.10.1\fileHashes\fileHashes.lock
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.lock
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\caches\build_file_checksums.ser
+      fullPath: C:\Users\codyh\.idea\caches\build_file_checksums.ser
+      projectPath: ..\..\..\..\..\..\.idea\caches\build_file_checksums.ser
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\caches\gradle_models.ser
+      fullPath: C:\Users\codyh\.idea\caches\gradle_models.ser
+      projectPath: ..\..\..\..\..\..\.idea\caches\gradle_models.ser
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\workspace.xml
+      fullPath: C:\Users\codyh\.idea\workspace.xml
+      projectPath: ..\..\..\..\..\..\.idea\workspace.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Skate_Project.iml
+      fullPath: C:\Users\codyh\Skate_Project.iml
+      projectPath: ..\..\..\..\..\..\Skate_Project.iml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\build.gradle
+      fullPath: C:\Users\codyh\app\build.gradle
+      projectPath: ..\..\..\..\..\..\app\build.gradle
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\MainActivity.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\MainActivity.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\MainActivity.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\activity_main.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\activity_main.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\activity_main.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 8738d44a1c9e10c0ad18eeaf8de7d595b53b13c2
+    mergeA: 
+    mergeB: 
+    authorName: lazyshady
+    authorEmail: adnan.rashied@gmail.com
+    commitEmail: adnan.rashied@gmail.com
+    commitName: lazyshady
+    summary: Test
+    description: 
+    timeString: 2019-03-04T11:19:51.000-05:00
+    commitTimeString: 2019-03-04T11:19:51.000-05:00
+    changes:
+    - path: .gradle\4.10.1\fileHashes\fileHashes.bin
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.bin
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.bin
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .gradle\4.10.1\fileHashes\fileHashes.lock
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.lock
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\workspace.xml
+      fullPath: C:\Users\codyh\.idea\workspace.xml
+      projectPath: ..\..\..\..\..\..\.idea\workspace.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: local.properties
+      fullPath: C:\Users\codyh\local.properties
+      projectPath: ..\..\..\..\..\..\local.properties
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 68f91e05a65a7dd7955949ff0fb4c09b3908969d
+    mergeA: 6a8ff862600d5c0acb86abdecb783536702f22d2
+    mergeB: 88a1f80d93c79ed6ed9a4d9ad068fa7e59e19239
+    authorName: SeunghyeonS
+    authorEmail: seacloud2751@gmail.com
+    commitEmail: seacloud2751@gmail.com
+    commitName: SeunghyeonS
+    summary: merged two splash pages
+    description: 
+    timeString: 2019-03-03T20:40:17.000-05:00
+    commitTimeString: 2019-03-03T20:40:17.000-05:00
+    changes: []
+  - commitID: 88a1f80d93c79ed6ed9a4d9ad068fa7e59e19239
+    mergeA: 
+    mergeB: 
+    authorName: lazyshady
+    authorEmail: adnan.rashied@gmail.com
+    commitEmail: adnan.rashied@gmail.com
+    commitName: lazyshady
+    summary: fixed
+    description: 
+    timeString: 2019-03-03T20:35:42.000-05:00
+    commitTimeString: 2019-03-03T20:35:42.000-05:00
+    changes:
+    - path: .idea\workspace.xml
+      fullPath: C:\Users\codyh\.idea\workspace.xml
+      projectPath: ..\..\..\..\..\..\.idea\workspace.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\ic_launcher-web.png
+      fullPath: C:\Users\codyh\app\src\main\ic_launcher-web.png
+      projectPath: ..\..\..\..\..\..\app\src\main\ic_launcher-web.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\blue.png
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\blue.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\blue.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\font\distantgalaxy.ttf
+      fullPath: C:\Users\codyh\app\src\main\res\font\distantgalaxy.ttf
+      projectPath: ..\..\..\..\..\..\app\src\main\res\font\distantgalaxy.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-hdpi\ic_launcher_background.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-hdpi\ic_launcher_background.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-hdpi\ic_launcher_background.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-hdpi\ic_launcher_foreground.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-hdpi\ic_launcher_foreground.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-hdpi\ic_launcher_foreground.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-mdpi\ic_launcher_background.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-mdpi\ic_launcher_background.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-mdpi\ic_launcher_background.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-mdpi\ic_launcher_foreground.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-mdpi\ic_launcher_foreground.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-mdpi\ic_launcher_foreground.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xhdpi\ic_launcher_background.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xhdpi\ic_launcher_background.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xhdpi\ic_launcher_background.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xhdpi\ic_launcher_foreground.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xhdpi\ic_launcher_foreground.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xhdpi\ic_launcher_foreground.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xxhdpi\ic_launcher_background.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xxhdpi\ic_launcher_background.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xxhdpi\ic_launcher_background.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xxhdpi\ic_launcher_foreground.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xxhdpi\ic_launcher_foreground.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xxhdpi\ic_launcher_foreground.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xxxhdpi\ic_launcher_background.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xxxhdpi\ic_launcher_background.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xxxhdpi\ic_launcher_background.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 6a8ff862600d5c0acb86abdecb783536702f22d2
+    mergeA: 
+    mergeB: 
+    authorName: SeunghyeonS
+    authorEmail: seacloud2751@gmail.com
+    commitEmail: seacloud2751@gmail.com
+    commitName: SeunghyeonS
+    summary: merged splash pages
+    description: 
+    timeString: 2019-03-03T20:34:11.000-05:00
+    commitTimeString: 2019-03-03T20:34:11.000-05:00
+    changes:
+    - path: .gradle\4.10.1\fileHashes\fileHashes.bin
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.bin
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.bin
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .gradle\4.10.1\fileHashes\fileHashes.lock
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.lock
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\caches\build_file_checksums.ser
+      fullPath: C:\Users\codyh\.idea\caches\build_file_checksums.ser
+      projectPath: ..\..\..\..\..\..\.idea\caches\build_file_checksums.ser
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\caches\gradle_models.ser
+      fullPath: C:\Users\codyh\.idea\caches\gradle_models.ser
+      projectPath: ..\..\..\..\..\..\.idea\caches\gradle_models.ser
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\workspace.xml
+      fullPath: C:\Users\codyh\.idea\workspace.xml
+      projectPath: ..\..\..\..\..\..\.idea\workspace.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 5287d4b79a5da1fb1c716da7ae3f49140c0c82e2
+    mergeA: 
+    mergeB: 
+    authorName: lazyshady
+    authorEmail: adnan.rashied@gmail.com
+    commitEmail: adnan.rashied@gmail.com
+    commitName: lazyshady
+    summary: added Render
+    description: 
+    timeString: 2019-03-03T19:59:29.000-05:00
+    commitTimeString: 2019-03-03T19:59:29.000-05:00
+    changes:
+    - path: .gradle\4.10.1\fileHashes\fileHashes.bin
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.bin
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.bin
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .gradle\4.10.1\fileHashes\fileHashes.lock
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.lock
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\workspace.xml
+      fullPath: C:\Users\codyh\.idea\workspace.xml
+      projectPath: ..\..\..\..\..\..\.idea\workspace.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\MainActivity.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\MainActivity.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\MainActivity.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\activity_main.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\activity_main.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\activity_main.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 26413f00171c5c2d1e1561abdcb48754658ad3b1
+    mergeA: 
+    mergeB: 
+    authorName: SeunghyeonS
+    authorEmail: seacloud2751@gmail.com
+    commitEmail: seacloud2751@gmail.com
+    commitName: SeunghyeonS
+    summary: merged splash pages
+    description: 
+    timeString: 2019-03-03T18:16:08.000-05:00
+    commitTimeString: 2019-03-03T18:16:08.000-05:00
+    changes:
+    - path: .gradle\4.10.1\fileHashes\fileHashes.bin
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.bin
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.bin
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .gradle\4.10.1\fileHashes\fileHashes.lock
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.lock
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\caches\build_file_checksums.ser
+      fullPath: C:\Users\codyh\.idea\caches\build_file_checksums.ser
+      projectPath: ..\..\..\..\..\..\.idea\caches\build_file_checksums.ser
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\caches\gradle_models.ser
+      fullPath: C:\Users\codyh\.idea\caches\gradle_models.ser
+      projectPath: ..\..\..\..\..\..\.idea\caches\gradle_models.ser
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\misc.xml
+      fullPath: C:\Users\codyh\.idea\misc.xml
+      projectPath: ..\..\..\..\..\..\.idea\misc.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\workspace.xml
+      fullPath: C:\Users\codyh\.idea\workspace.xml
+      projectPath: ..\..\..\..\..\..\.idea\workspace.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Skate_Project.iml
+      fullPath: C:\Users\codyh\Skate_Project.iml
+      projectPath: ..\..\..\..\..\..\Skate_Project.iml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\AndroidManifest.xml
+      fullPath: C:\Users\codyh\app\src\main\AndroidManifest.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\AndroidManifest.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\ic_launcher-web.png
+      fullPath: C:\Users\codyh\app\src\main\ic_launcher-web.png
+      projectPath: ..\..\..\..\..\..\app\src\main\ic_launcher-web.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\SplashScreen.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\SplashScreen.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\SplashScreen.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\SplashScreen2.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\SplashScreen2.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\SplashScreen2.java
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\blue.png
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\blue.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\blue.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\font\distantgalaxy.ttf
+      fullPath: C:\Users\codyh\app\src\main\res\font\distantgalaxy.ttf
+      projectPath: ..\..\..\..\..\..\app\src\main\res\font\distantgalaxy.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\activity_splash_screen.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\activity_splash_screen.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\activity_splash_screen.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\activity_splash_screen2.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\activity_splash_screen2.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\activity_splash_screen2.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-hdpi\ic_launcher.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-hdpi\ic_launcher.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-hdpi\ic_launcher.png
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-hdpi\ic_launcher_background.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-hdpi\ic_launcher_background.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-hdpi\ic_launcher_background.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-hdpi\ic_launcher_foreground.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-hdpi\ic_launcher_foreground.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-hdpi\ic_launcher_foreground.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-hdpi\ic_launcher_round.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-hdpi\ic_launcher_round.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-hdpi\ic_launcher_round.png
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-mdpi\ic_launcher.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-mdpi\ic_launcher.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-mdpi\ic_launcher.png
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-mdpi\ic_launcher_background.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-mdpi\ic_launcher_background.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-mdpi\ic_launcher_background.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-mdpi\ic_launcher_foreground.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-mdpi\ic_launcher_foreground.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-mdpi\ic_launcher_foreground.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-mdpi\ic_launcher_round.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-mdpi\ic_launcher_round.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-mdpi\ic_launcher_round.png
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xhdpi\ic_launcher.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xhdpi\ic_launcher.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xhdpi\ic_launcher.png
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xhdpi\ic_launcher_background.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xhdpi\ic_launcher_background.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xhdpi\ic_launcher_background.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xhdpi\ic_launcher_foreground.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xhdpi\ic_launcher_foreground.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xhdpi\ic_launcher_foreground.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xhdpi\ic_launcher_round.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xhdpi\ic_launcher_round.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xhdpi\ic_launcher_round.png
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xxhdpi\ic_launcher.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xxhdpi\ic_launcher.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xxhdpi\ic_launcher.png
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xxhdpi\ic_launcher_background.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xxhdpi\ic_launcher_background.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xxhdpi\ic_launcher_background.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xxhdpi\ic_launcher_foreground.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xxhdpi\ic_launcher_foreground.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xxhdpi\ic_launcher_foreground.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xxxhdpi\ic_launcher.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xxxhdpi\ic_launcher_background.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xxxhdpi\ic_launcher_background.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xxxhdpi\ic_launcher_background.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: build.gradle
+      fullPath: C:\Users\codyh\build.gradle
+      projectPath: ..\..\..\..\..\..\build.gradle
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: gradle\wrapper\gradle-wrapper.jar
+      fullPath: C:\Users\codyh\gradle\wrapper\gradle-wrapper.jar
+      projectPath: ..\..\..\..\..\..\gradle\wrapper\gradle-wrapper.jar
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: gradlew
+      fullPath: C:\Users\codyh\gradlew
+      projectPath: ..\..\..\..\..\..\gradlew
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: gradlew.bat
+      fullPath: C:\Users\codyh\gradlew.bat
+      projectPath: ..\..\..\..\..\..\gradlew.bat
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: local.properties
+      fullPath: C:\Users\codyh\local.properties
+      projectPath: ..\..\..\..\..\..\local.properties
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 243351988fbef034126b6672e85c81d0ccbbac2f
+    mergeA: 
+    mergeB: 
+    authorName: lazyshady
+    authorEmail: adnan.rashied@gmail.com
+    commitEmail: adnan.rashied@gmail.com
+    commitName: lazyshady
+    summary: ' added header'
+    description: 
+    timeString: 2019-02-28T23:40:00.000-05:00
+    commitTimeString: 2019-02-28T23:40:00.000-05:00
+    changes:
+    - path: .gradle\4.10.1\fileHashes\fileHashes.bin
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.bin
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.bin
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .gradle\4.10.1\fileHashes\fileHashes.lock
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.lock
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\caches\build_file_checksums.ser
+      fullPath: C:\Users\codyh\.idea\caches\build_file_checksums.ser
+      projectPath: ..\..\..\..\..\..\.idea\caches\build_file_checksums.ser
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\caches\gradle_models.ser
+      fullPath: C:\Users\codyh\.idea\caches\gradle_models.ser
+      projectPath: ..\..\..\..\..\..\.idea\caches\gradle_models.ser
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\workspace.xml
+      fullPath: C:\Users\codyh\.idea\workspace.xml
+      projectPath: ..\..\..\..\..\..\.idea\workspace.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Skate_Project.iml
+      fullPath: C:\Users\codyh\Skate_Project.iml
+      projectPath: ..\..\..\..\..\..\Skate_Project.iml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\build.gradle
+      fullPath: C:\Users\codyh\app\build.gradle
+      projectPath: ..\..\..\..\..\..\app\build.gradle
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\AndroidManifest.xml
+      fullPath: C:\Users\codyh\app\src\main\AndroidManifest.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\AndroidManifest.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\MainActivity.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\MainActivity.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\MainActivity.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\imgcycle1.jpg
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\imgcycle1.jpg
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\imgcycle1.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\imgcycle2.jpg
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\imgcycle2.jpg
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\imgcycle2.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\activity_main.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\activity_main.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\activity_main.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\activity_sample_carousel_view.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\activity_sample_carousel_view.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\activity_sample_carousel_view.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\activity_splash_screen.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\activity_splash_screen.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\activity_splash_screen.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: build.gradle
+      fullPath: C:\Users\codyh\build.gradle
+      projectPath: ..\..\..\..\..\..\build.gradle
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 1638fc4b5c1e28ae74e26ac58db02c7df7e4f7c4
+    mergeA: 
+    mergeB: 
+    authorName: lazyshady
+    authorEmail: adnan.rashied@gmail.com
+    commitEmail: adnan.rashied@gmail.com
+    commitName: lazyshady
+    summary: Working Application
+    description: 
+    timeString: 2019-02-27T11:35:42.000-05:00
+    commitTimeString: 2019-02-27T11:35:42.000-05:00
+    changes:
+    - path: .gradle\4.10.1\fileHashes\fileHashes.bin
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.bin
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.bin
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .gradle\4.10.1\fileHashes\fileHashes.lock
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.lock
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\workspace.xml
+      fullPath: C:\Users\codyh\.idea\workspace.xml
+      projectPath: ..\..\..\..\..\..\.idea\workspace.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 23d4bd8560ae61e25e15f60ef5b70e58337c403c
+    mergeA: 
+    mergeB: 
+    authorName: lazyshady
+    authorEmail: adnan.rashied@gmail.com
+    commitEmail: adnan.rashied@gmail.com
+    commitName: lazyshady
+    summary: Rebased
+    description: 
+    timeString: 2019-02-27T11:33:15.000-05:00
+    commitTimeString: 2019-02-27T11:33:15.000-05:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\codyh\.gitignore
+      projectPath: ..\..\..\..\..\..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gradle\4.10.1\fileHashes\fileHashes.bin
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.bin
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.bin
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .gradle\4.10.1\fileHashes\fileHashes.lock
+      fullPath: C:\Users\codyh\.gradle\4.10.1\fileHashes\fileHashes.lock
+      projectPath: ..\..\..\..\..\..\.gradle\4.10.1\fileHashes\fileHashes.lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\caches\build_file_checksums.ser
+      fullPath: C:\Users\codyh\.idea\caches\build_file_checksums.ser
+      projectPath: ..\..\..\..\..\..\.idea\caches\build_file_checksums.ser
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\caches\gradle_models.ser
+      fullPath: C:\Users\codyh\.idea\caches\gradle_models.ser
+      projectPath: ..\..\..\..\..\..\.idea\caches\gradle_models.ser
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\misc.xml
+      fullPath: C:\Users\codyh\.idea\misc.xml
+      projectPath: ..\..\..\..\..\..\.idea\misc.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\modules.xml
+      fullPath: C:\Users\codyh\.idea\modules.xml
+      projectPath: ..\..\..\..\..\..\.idea\modules.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\vcs.xml
+      fullPath: C:\Users\codyh\.idea\vcs.xml
+      projectPath: ..\..\..\..\..\..\.idea\vcs.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\workspace.xml
+      fullPath: C:\Users\codyh\.idea\workspace.xml
+      projectPath: ..\..\..\..\..\..\.idea\workspace.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: C:\Users\codyh\README.md
+      projectPath: ..\..\..\..\..\..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Shinfix.txt
+      fullPath: C:\Users\codyh\Shinfix.txt
+      projectPath: ..\..\..\..\..\..\Shinfix.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Skate_Project.iml
+      fullPath: C:\Users\codyh\Skate_Project.iml
+      projectPath: ..\..\..\..\..\..\Skate_Project.iml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\.gitignore
+      fullPath: C:\Users\codyh\app\.gitignore
+      projectPath: ..\..\..\..\..\..\app\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\build.gradle
+      fullPath: C:\Users\codyh\app\build.gradle
+      projectPath: ..\..\..\..\..\..\app\build.gradle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\proguard-rules.pro
+      fullPath: C:\Users\codyh\app\proguard-rules.pro
+      projectPath: ..\..\..\..\..\..\app\proguard-rules.pro
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\androidTest\java\com\example\skate_project\ExampleInstrumentedTest.java
+      fullPath: C:\Users\codyh\app\src\androidTest\java\com\example\skate_project\ExampleInstrumentedTest.java
+      projectPath: ..\..\..\..\..\..\app\src\androidTest\java\com\example\skate_project\ExampleInstrumentedTest.java
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\AndroidManifest.xml
+      fullPath: C:\Users\codyh\app\src\main\AndroidManifest.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\AndroidManifest.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\MainActivity.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\MainActivity.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\MainActivity.java
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\SplashScreen.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\SplashScreen.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\SplashScreen.java
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\SplashScreen2.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\SplashScreen2.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\SplashScreen2.java
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable-v24\background.PNG
+      fullPath: C:\Users\codyh\app\src\main\res\drawable-v24\background.PNG
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable-v24\background.PNG
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable-v24\ic_launcher_foreground.xml
+      fullPath: C:\Users\codyh\app\src\main\res\drawable-v24\ic_launcher_foreground.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable-v24\ic_launcher_foreground.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable-v24\skateboard.png
+      fullPath: C:\Users\codyh\app\src\main\res\drawable-v24\skateboard.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable-v24\skateboard.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\background.PNG
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\background.PNG
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\background.PNG
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\ic_launcher_background.xml
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\ic_launcher_background.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\ic_launcher_background.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\ksulogo.png
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\ksulogo.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\ksulogo.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\skateback.jpg
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\skateback.jpg
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\skateback.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\skateboard.png
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\skateboard.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\skateboard.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\activity_main.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\activity_main.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\activity_main.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\activity_splash_screen.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\activity_splash_screen.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\activity_splash_screen.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\activity_splash_screen2.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\activity_splash_screen2.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\activity_splash_screen2.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-hdpi\ic_launcher.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-hdpi\ic_launcher.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-hdpi\ic_launcher.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-hdpi\ic_launcher_round.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-hdpi\ic_launcher_round.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-hdpi\ic_launcher_round.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-mdpi\ic_launcher.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-mdpi\ic_launcher.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-mdpi\ic_launcher.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-mdpi\ic_launcher_round.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-mdpi\ic_launcher_round.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-mdpi\ic_launcher_round.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xhdpi\ic_launcher.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xhdpi\ic_launcher.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xhdpi\ic_launcher.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xhdpi\ic_launcher_round.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xhdpi\ic_launcher_round.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xhdpi\ic_launcher_round.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xxhdpi\ic_launcher.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xxhdpi\ic_launcher.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xxhdpi\ic_launcher.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xxxhdpi\ic_launcher.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\values\colors.xml
+      fullPath: C:\Users\codyh\app\src\main\res\values\colors.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\values\colors.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\values\strings.xml
+      fullPath: C:\Users\codyh\app\src\main\res\values\strings.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\values\strings.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\values\styles.xml
+      fullPath: C:\Users\codyh\app\src\main\res\values\styles.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\values\styles.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\test\java\com\example\skate_project\ExampleUnitTest.java
+      fullPath: C:\Users\codyh\app\src\test\java\com\example\skate_project\ExampleUnitTest.java
+      projectPath: ..\..\..\..\..\..\app\src\test\java\com\example\skate_project\ExampleUnitTest.java
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: build.gradle
+      fullPath: C:\Users\codyh\build.gradle
+      projectPath: ..\..\..\..\..\..\build.gradle
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: gradle.properties
+      fullPath: C:\Users\codyh\gradle.properties
+      projectPath: ..\..\..\..\..\..\gradle.properties
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: gradle\wrapper\gradle-wrapper.properties
+      fullPath: C:\Users\codyh\gradle\wrapper\gradle-wrapper.properties
+      projectPath: ..\..\..\..\..\..\gradle\wrapper\gradle-wrapper.properties
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: local.properties
+      fullPath: C:\Users\codyh\local.properties
+      projectPath: ..\..\..\..\..\..\local.properties
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: settings.gradle
+      fullPath: C:\Users\codyh\settings.gradle
+      projectPath: ..\..\..\..\..\..\settings.gradle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 2e6ea42f8f483a53a383b0042f220e6670839860
+    mergeA: b8c629f2586ec4376cbf8f38ec6aca7938824905
+    mergeB: a7d5f5c4e3df4a58dbfd54cf04014ca93067a1ef
+    authorName: lazyshady
+    authorEmail: adnan.rashied@gmail.com
+    commitEmail: adnan.rashied@gmail.com
+    commitName: lazyshady
+    summary: Merge branch 'master' of https://github.com/AdnanRashied/Skate_Project
+    description: 
+    timeString: 2019-02-26T15:04:30.000-05:00
+    commitTimeString: 2019-02-26T15:04:30.000-05:00
+    changes: []
+  - commitID: b8c629f2586ec4376cbf8f38ec6aca7938824905
+    mergeA: 
+    mergeB: 
+    authorName: lazyshady
+    authorEmail: adnan.rashied@gmail.com
+    commitEmail: adnan.rashied@gmail.com
+    commitName: lazyshady
+    summary: rejoin
+    description: 
+    timeString: 2019-02-26T14:54:32.000-05:00
+    commitTimeString: 2019-02-26T14:54:32.000-05:00
+    changes:
+    - path: .idea\vcs.xml
+      fullPath: C:\Users\codyh\.idea\vcs.xml
+      projectPath: ..\..\..\..\..\..\.idea\vcs.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: a7d5f5c4e3df4a58dbfd54cf04014ca93067a1ef
+    mergeA: 0917a1632bf24f75b296d1e126dc79b5c26e9cf0
+    mergeB: d1b96e8966d019a94f6fbc3cb5483347ea70c373
+    authorName: Joshua
+    authorEmail: jbrock7work@gmail.com
+    commitEmail: jbrock7work@gmail.com
+    commitName: Joshua
+    summary: Merge branch 'ProgBar'
+    description: 
+    timeString: 2019-02-20T19:15:40.000-05:00
+    commitTimeString: 2019-02-20T19:15:40.000-05:00
+    changes: []
+  - commitID: d1b96e8966d019a94f6fbc3cb5483347ea70c373
+    mergeA: 
+    mergeB: 
+    authorName: Joshua
+    authorEmail: jbrock7work@gmail.com
+    commitEmail: jbrock7work@gmail.com
+    commitName: Joshua
+    summary: Updated with proper rotation
+    description: 
+    timeString: 2019-02-20T19:15:25.000-05:00
+    commitTimeString: 2019-02-20T19:15:25.000-05:00
+    changes:
+    - path: .idea\misc.xml
+      fullPath: C:\Users\codyh\.idea\misc.xml
+      projectPath: ..\..\..\..\..\..\.idea\misc.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\activity_splash_screen.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\activity_splash_screen.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\activity_splash_screen.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\activity_splash_screen2.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\activity_splash_screen2.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\activity_splash_screen2.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 8cd1e0c63f6920f19336e3b961f3cd59b12b54d9
+    mergeA: 
+    mergeB: 
+    authorName: Joshua
+    authorEmail: jbrock7work@gmail.com
+    commitEmail: jbrock7work@gmail.com
+    commitName: Joshua
+    summary: Changed splash1 image per request
+    description: 
+    timeString: 2019-02-19T19:21:13.000-05:00
+    commitTimeString: 2019-02-19T19:21:13.000-05:00
+    changes:
+    - path: .idea\misc.xml
+      fullPath: C:\Users\codyh\.idea\misc.xml
+      projectPath: ..\..\..\..\..\..\.idea\misc.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\skateback.jpg
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\skateback.jpg
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\skateback.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\activity_splash_screen.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\activity_splash_screen.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\activity_splash_screen.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 4f20117f613a0ea9e204be1f5746c929af720ef9
+    mergeA: 
+    mergeB: 
+    authorName: Joshua
+    authorEmail: jbrock7work@gmail.com
+    commitEmail: jbrock7work@gmail.com
+    commitName: Joshua
+    summary: Added mockup of progress bar
+    description: 
+    timeString: 2019-02-19T18:29:24.000-05:00
+    commitTimeString: 2019-02-19T18:29:24.000-05:00
+    changes:
+    - path: .idea\gradle.xml
+      fullPath: C:\Users\codyh\.idea\gradle.xml
+      projectPath: ..\..\..\..\..\..\.idea\gradle.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\misc.xml
+      fullPath: C:\Users\codyh\.idea\misc.xml
+      projectPath: ..\..\..\..\..\..\.idea\misc.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\vcs.xml
+      fullPath: C:\Users\codyh\.idea\vcs.xml
+      projectPath: ..\..\..\..\..\..\.idea\vcs.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: C:\Users\codyh\README.md
+      projectPath: ..\..\..\..\..\..\README.md
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\SplashScreen2.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\SplashScreen2.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\SplashScreen2.java
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\activity_splash_screen2.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\activity_splash_screen2.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\activity_splash_screen2.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 0917a1632bf24f75b296d1e126dc79b5c26e9cf0
+    mergeA: 
+    mergeB: 
+    authorName: SeunghyeonS
+    authorEmail: seacloud2751@gmail.com
+    commitEmail: seacloud2751@gmail.com
+    commitName: SeunghyeonS
+    summary: added splash page
+    description: 
+    timeString: 2019-02-15T18:10:48.000-05:00
+    commitTimeString: 2019-02-15T18:10:48.000-05:00
+    changes:
+    - path: .idea\misc.xml
+      fullPath: C:\Users\codyh\.idea\misc.xml
+      projectPath: ..\..\..\..\..\..\.idea\misc.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .idea\vcs.xml
+      fullPath: C:\Users\codyh\.idea\vcs.xml
+      projectPath: ..\..\..\..\..\..\.idea\vcs.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\AndroidManifest.xml
+      fullPath: C:\Users\codyh\app\src\main\AndroidManifest.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\AndroidManifest.xml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\SplashScreen.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\SplashScreen.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\SplashScreen.java
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\SplashScreen2.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\SplashScreen2.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\SplashScreen2.java
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable-v24\background.PNG
+      fullPath: C:\Users\codyh\app\src\main\res\drawable-v24\background.PNG
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable-v24\background.PNG
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable-v24\skateboard.png
+      fullPath: C:\Users\codyh\app\src\main\res\drawable-v24\skateboard.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable-v24\skateboard.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\background.PNG
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\background.PNG
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\background.PNG
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\ksulogo.png
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\ksulogo.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\ksulogo.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\skateboard.png
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\skateboard.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\skateboard.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\activity_splash_screen.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\activity_splash_screen.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\activity_splash_screen.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\activity_splash_screen2.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\activity_splash_screen2.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\activity_splash_screen2.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 03a17632f6a359d044d188f7d4e7deacafc73ae4
+    mergeA: 
+    mergeB: 
+    authorName: SeunghyeonS
+    authorEmail: seacloud2751@gmail.com
+    commitEmail: seacloud2751@gmail.com
+    commitName: SeunghyeonS
+    summary: git stable Shin
+    description: 
+    timeString: 2019-02-15T17:54:33.000-05:00
+    commitTimeString: 2019-02-15T17:54:33.000-05:00
+    changes:
+    - path: Shinfix.txt
+      fullPath: C:\Users\codyh\Shinfix.txt
+      projectPath: ..\..\..\..\..\..\Shinfix.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 49301481375ac0a69d5e5532a14599bd34f5e16d
+    mergeA: a26c6a1e630de6e607d31f471a02c522a6c7010d
+    mergeB: 96c369f9a03ea96100bcdac19e511772e44afd8b
+    authorName: SeunghyeonS
+    authorEmail: seacloud2751
+    commitEmail: seacloud2751
+    commitName: SeunghyeonS
+    summary: Merge branch 'master' of https://github.com/AdnanRashied/Skate_Project
+    description: 
+    timeString: 2019-02-08T15:45:25.000-05:00
+    commitTimeString: 2019-02-08T15:45:25.000-05:00
+    changes: []
+  - commitID: a26c6a1e630de6e607d31f471a02c522a6c7010d
+    mergeA: 
+    mergeB: 
+    authorName: SeunghyeonS
+    authorEmail: seacloud2751
+    commitEmail: seacloud2751
+    commitName: SeunghyeonS
+    summary: Deleted README2.md
+    description: 
+    timeString: 2019-02-08T15:44:50.000-05:00
+    commitTimeString: 2019-02-08T15:44:50.000-05:00
+    changes:
+    - path: README2.md
+      fullPath: C:\Users\codyh\README2.md
+      projectPath: ..\..\..\..\..\..\README2.md
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: 96c369f9a03ea96100bcdac19e511772e44afd8b
+    mergeA: 
+    mergeB: 
+    authorName: SeunghyeonS
+    authorEmail: 36048004+SeunghyeonS@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Delete uploadInstruction.md
+    description: 
+    timeString: 2019-02-08T10:30:00.000-05:00
+    commitTimeString: 2019-02-08T10:30:00.000-05:00
+    changes:
+    - path: uploadInstruction.md
+      fullPath: C:\Users\codyh\uploadInstruction.md
+      projectPath: ..\..\..\..\..\..\uploadInstruction.md
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: b999eac4d23d46acc51ea6bb2d904ba2de2b1e0e
+    mergeA: 
+    mergeB: 
+    authorName: SeunghyeonS
+    authorEmail: seacloud2751@gmail.com
+    commitEmail: seacloud2751@gmail.com
+    commitName: SeunghyeonS
+    summary: Seunghyeon - Ready
+    description: 
+    timeString: 2019-02-08T00:31:56.000-05:00
+    commitTimeString: 2019-02-08T00:31:56.000-05:00
+    changes:
+    - path: README2.md
+      fullPath: C:\Users\codyh\README2.md
+      projectPath: ..\..\..\..\..\..\README2.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: b579475189bbd94fc96213ed49b6284f955a17ce
+    mergeA: 
+    mergeB: 
+    authorName: SeunghyeonS
+    authorEmail: 36048004+SeunghyeonS@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Delete README2.md
+    description: 
+    timeString: 2019-02-08T00:11:28.000-05:00
+    commitTimeString: 2019-02-08T00:11:28.000-05:00
+    changes:
+    - path: README2.md
+      fullPath: C:\Users\codyh\README2.md
+      projectPath: ..\..\..\..\..\..\README2.md
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: 1062e94b6386ba6f00417f4d3e865cc26a5b0ca4
+    mergeA: 
+    mergeB: 
+    authorName: SeunghyeonS
+    authorEmail: seacloud2751@gmail.com
+    commitEmail: seacloud2751@gmail.com
+    commitName: SeunghyeonS
+    summary: Hope this helps..
+    description: 
+    timeString: 2019-02-08T00:09:33.000-05:00
+    commitTimeString: 2019-02-08T00:09:33.000-05:00
+    changes:
+    - path: uploadInstruction.md
+      fullPath: C:\Users\codyh\uploadInstruction.md
+      projectPath: ..\..\..\..\..\..\uploadInstruction.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 441c9d06c64606ccedfea9c4b4a8e931a001f1f8
+    mergeA: 
+    mergeB: 
+    authorName: SeunghyeonS
+    authorEmail: seacloud2751@gmail.com
+    commitEmail: seacloud2751@gmail.com
+    commitName: SeunghyeonS
+    summary: WOWOWOW
+    description: 
+    timeString: 2019-02-08T00:01:00.000-05:00
+    commitTimeString: 2019-02-08T00:01:00.000-05:00
+    changes:
+    - path: README2.md
+      fullPath: C:\Users\codyh\README2.md
+      projectPath: ..\..\..\..\..\..\README2.md
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 3bbf7233ef70253e506d91333b682a9df320ad96
+    mergeA: 
+    mergeB: 
+    authorName: SeunghyeonS
+    authorEmail: seacloud2751@gmail.com
+    commitEmail: seacloud2751@gmail.com
+    commitName: SeunghyeonS
+    summary: but not sure
+    description: 
+    timeString: 2019-02-07T23:58:05.000-05:00
+    commitTimeString: 2019-02-07T23:58:05.000-05:00
+    changes:
+    - path: README2.md
+      fullPath: C:\Users\codyh\README2.md
+      projectPath: ..\..\..\..\..\..\README2.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 72dcc84bbdbb93d470a349b8ace23e0917fb3dc7
+    mergeA: 
+    mergeB: 
+    authorName: Joshua
+    authorEmail: jbrock7work@gmail.com
+    commitEmail: jbrock7work@gmail.com
+    commitName: Joshua
+    summary: 
+    description: Joshua - Ready
+    timeString: 2019-02-07T22:42:11.000-05:00
+    commitTimeString: 2019-02-07T22:42:11.000-05:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\codyh\README.md
+      projectPath: ..\..\..\..\..\..\README.md
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 6e76a7378a1616c6d5df5c216b843ab87539b67a
+    mergeA: 
+    mergeB: 
+    authorName: lazyshady
+    authorEmail: adnan.rashied@gmail.com
+    commitEmail: adnan.rashied@gmail.com
+    commitName: lazyshady
+    summary: Project Loaded
+    description: 
+    timeString: 2019-02-07T20:54:41.000-05:00
+    commitTimeString: 2019-02-07T20:54:41.000-05:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\codyh\.gitignore
+      projectPath: ..\..\..\..\..\..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .idea\codeStyles\Project.xml
+      fullPath: C:\Users\codyh\.idea\codeStyles\Project.xml
+      projectPath: ..\..\..\..\..\..\.idea\codeStyles\Project.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .idea\gradle.xml
+      fullPath: C:\Users\codyh\.idea\gradle.xml
+      projectPath: ..\..\..\..\..\..\.idea\gradle.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .idea\misc.xml
+      fullPath: C:\Users\codyh\.idea\misc.xml
+      projectPath: ..\..\..\..\..\..\.idea\misc.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .idea\runConfigurations.xml
+      fullPath: C:\Users\codyh\.idea\runConfigurations.xml
+      projectPath: ..\..\..\..\..\..\.idea\runConfigurations.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .idea\vcs.xml
+      fullPath: C:\Users\codyh\.idea\vcs.xml
+      projectPath: ..\..\..\..\..\..\.idea\vcs.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\.gitignore
+      fullPath: C:\Users\codyh\app\.gitignore
+      projectPath: ..\..\..\..\..\..\app\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\build.gradle
+      fullPath: C:\Users\codyh\app\build.gradle
+      projectPath: ..\..\..\..\..\..\app\build.gradle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\proguard-rules.pro
+      fullPath: C:\Users\codyh\app\proguard-rules.pro
+      projectPath: ..\..\..\..\..\..\app\proguard-rules.pro
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\androidTest\java\com\example\skate_project\ExampleInstrumentedTest.java
+      fullPath: C:\Users\codyh\app\src\androidTest\java\com\example\skate_project\ExampleInstrumentedTest.java
+      projectPath: ..\..\..\..\..\..\app\src\androidTest\java\com\example\skate_project\ExampleInstrumentedTest.java
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\AndroidManifest.xml
+      fullPath: C:\Users\codyh\app\src\main\AndroidManifest.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\AndroidManifest.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\java\com\example\skate_project\MainActivity.java
+      fullPath: C:\Users\codyh\app\src\main\java\com\example\skate_project\MainActivity.java
+      projectPath: ..\..\..\..\..\..\app\src\main\java\com\example\skate_project\MainActivity.java
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable-v24\ic_launcher_foreground.xml
+      fullPath: C:\Users\codyh\app\src\main\res\drawable-v24\ic_launcher_foreground.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable-v24\ic_launcher_foreground.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\drawable\ic_launcher_background.xml
+      fullPath: C:\Users\codyh\app\src\main\res\drawable\ic_launcher_background.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\drawable\ic_launcher_background.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\layout\activity_main.xml
+      fullPath: C:\Users\codyh\app\src\main\res\layout\activity_main.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\layout\activity_main.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-hdpi\ic_launcher.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-hdpi\ic_launcher.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-hdpi\ic_launcher.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-hdpi\ic_launcher_round.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-hdpi\ic_launcher_round.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-hdpi\ic_launcher_round.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-mdpi\ic_launcher.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-mdpi\ic_launcher.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-mdpi\ic_launcher.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-mdpi\ic_launcher_round.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-mdpi\ic_launcher_round.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-mdpi\ic_launcher_round.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xhdpi\ic_launcher.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xhdpi\ic_launcher.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xhdpi\ic_launcher.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xhdpi\ic_launcher_round.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xhdpi\ic_launcher_round.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xhdpi\ic_launcher_round.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xxhdpi\ic_launcher.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xxhdpi\ic_launcher.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xxhdpi\ic_launcher.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xxxhdpi\ic_launcher.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png
+      fullPath: C:\Users\codyh\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png
+      projectPath: ..\..\..\..\..\..\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\values\colors.xml
+      fullPath: C:\Users\codyh\app\src\main\res\values\colors.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\values\colors.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\values\strings.xml
+      fullPath: C:\Users\codyh\app\src\main\res\values\strings.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\values\strings.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\main\res\values\styles.xml
+      fullPath: C:\Users\codyh\app\src\main\res\values\styles.xml
+      projectPath: ..\..\..\..\..\..\app\src\main\res\values\styles.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: app\src\test\java\com\example\skate_project\ExampleUnitTest.java
+      fullPath: C:\Users\codyh\app\src\test\java\com\example\skate_project\ExampleUnitTest.java
+      projectPath: ..\..\..\..\..\..\app\src\test\java\com\example\skate_project\ExampleUnitTest.java
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: build.gradle
+      fullPath: C:\Users\codyh\build.gradle
+      projectPath: ..\..\..\..\..\..\build.gradle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: gradle.properties
+      fullPath: C:\Users\codyh\gradle.properties
+      projectPath: ..\..\..\..\..\..\gradle.properties
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: gradle\wrapper\gradle-wrapper.jar
+      fullPath: C:\Users\codyh\gradle\wrapper\gradle-wrapper.jar
+      projectPath: ..\..\..\..\..\..\gradle\wrapper\gradle-wrapper.jar
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: gradle\wrapper\gradle-wrapper.properties
+      fullPath: C:\Users\codyh\gradle\wrapper\gradle-wrapper.properties
+      projectPath: ..\..\..\..\..\..\gradle\wrapper\gradle-wrapper.properties
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: gradlew
+      fullPath: C:\Users\codyh\gradlew
+      projectPath: ..\..\..\..\..\..\gradlew
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: gradlew.bat
+      fullPath: C:\Users\codyh\gradlew.bat
+      projectPath: ..\..\..\..\..\..\gradlew.bat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: settings.gradle
+      fullPath: C:\Users\codyh\settings.gradle
+      projectPath: ..\..\..\..\..\..\settings.gradle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 7a0e98db73d5db5f382ea1c79b478a42cf3b1ea2
+    mergeA: 
+    mergeB: 
+    authorName: AdnanRashied
+    authorEmail: 42123280+AdnanRashied@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2019-02-06T18:43:12.000-05:00
+    commitTimeString: 2019-02-06T18:43:12.000-05:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\codyh\README.md
+      projectPath: ..\..\..\..\..\..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{DDF93055-2F48-CB84-3367-6143EB81C684}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FL Chess Logic/FLwAI/FLGameManagerwAI.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="24" Column="36" />
+      <File FileName="Assets/Scripts/Standard Chess/GameManager.cs" Line="292" Column="29" />
+      <File FileName="Assets/Scripts/FL Chess Logic/FLGameManager.cs" />
+      <File FileName="Assets/Scripts/FL Chess Logic/FLwAI/FLGameManagerwAI.cs" Line="1181" Column="1" />
+      <File FileName="Assets/Scripts/PauseMenu.cs" Line="24" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FLChess" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0a939010-294f-4c80-8a38-31f12a6ebd9e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

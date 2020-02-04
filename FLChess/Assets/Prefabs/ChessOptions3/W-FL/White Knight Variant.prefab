@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &4491828644192839144
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2820586735451107082}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1496282ece16a4f98b5aae87e0c20d3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 3
+  HasAttacked: 0
+  owner: 0
+  AttackPower: 0
+--- !u!1001 &1356538645458442907
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3888814318944138641, guid: 1d15fc2d8a2dedf4bb5a3f3931a898ac,
+        type: 3}
+      propertyPath: m_Name
+      value: White Knight Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 3888814318943785507, guid: 1d15fc2d8a2dedf4bb5a3f3931a898ac,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.5080237
+      objectReference: {fileID: 0}
+    - target: {fileID: 3888814318943785507, guid: 1d15fc2d8a2dedf4bb5a3f3931a898ac,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3888814318943785507, guid: 1d15fc2d8a2dedf4bb5a3f3931a898ac,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.4915047
+      objectReference: {fileID: 0}
+    - target: {fileID: 3888814318943785507, guid: 1d15fc2d8a2dedf4bb5a3f3931a898ac,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3888814318943785507, guid: 1d15fc2d8a2dedf4bb5a3f3931a898ac,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.033548784
+      objectReference: {fileID: 0}
+    - target: {fileID: 3888814318943785507, guid: 1d15fc2d8a2dedf4bb5a3f3931a898ac,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3888814318943785507, guid: 1d15fc2d8a2dedf4bb5a3f3931a898ac,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9994371
+      objectReference: {fileID: 0}
+    - target: {fileID: 3888814318943785507, guid: 1d15fc2d8a2dedf4bb5a3f3931a898ac,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3888814318943785507, guid: 1d15fc2d8a2dedf4bb5a3f3931a898ac,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3888814318943785507, guid: 1d15fc2d8a2dedf4bb5a3f3931a898ac,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 3.8450003
+      objectReference: {fileID: 0}
+    - target: {fileID: 3888814318943785507, guid: 1d15fc2d8a2dedf4bb5a3f3931a898ac,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 851906386007646474, guid: 1d15fc2d8a2dedf4bb5a3f3931a898ac, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 1d15fc2d8a2dedf4bb5a3f3931a898ac, type: 3}
+--- !u!1 &2820586735451107082 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3888814318944138641, guid: 1d15fc2d8a2dedf4bb5a3f3931a898ac,
+    type: 3}
+  m_PrefabInstance: {fileID: 1356538645458442907}
+  m_PrefabAsset: {fileID: 0}
